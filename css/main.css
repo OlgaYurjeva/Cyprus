@@ -653,6 +653,16 @@ a {
     max-width: 320px;
   }
 }
+@media(max-width:400px){
+  
+   .slick-dots.slider__dots{
+      display: none;
+   }
+   .top__article {
+      bottom: -56%;
+      max-width: 320px;
+   }
+}
 @media (max-height: 650px) {
   .top__content {
     margin-top: 20px;
