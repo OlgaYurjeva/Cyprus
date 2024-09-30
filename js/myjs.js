@@ -37,6 +37,14 @@ $('.swiper-fade').slick({
    cssEase: 'ease-in-out',
    arrows: false,
 
+    responsive: [
+      {
+        breakpoint: 400,
+        settings: {
+          dots:false,
+        }
+      }
+    ]
 });
 
 
