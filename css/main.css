@@ -821,6 +821,8 @@ a {
 .paradise__title {
   text-align: center;
   margin-bottom: 33px;
+   line-height: 1.5;
+  
 }
 
 .paradise__text {
@@ -879,6 +881,7 @@ a {
 .benefits__title {
   margin-bottom: 20px;
   text-align: center;
+   line-height: 1.5;
 }
 
 .benefits__text {
@@ -1254,6 +1257,7 @@ a {
 }
 .how__title {
   margin-bottom: 60px;
+   line-height: 1.5;
 }
 
 .form {
