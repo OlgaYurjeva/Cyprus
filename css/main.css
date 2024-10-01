@@ -617,7 +617,7 @@ a {
     bottom: -300px;
   }
   .article__card {
-    scroll-snap-align:round($number: 1);
+    scroll-snap-align: start;
   }
   .article:hover {
     scale: 1;
