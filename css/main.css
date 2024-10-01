@@ -625,7 +625,6 @@ a {
             transform: none;
   }
   .slick-dots.slider__dots {
-    z-index: 11;
     right: 30%;
     bottom: -400px;
     -webkit-transform: rotate(180deg);
